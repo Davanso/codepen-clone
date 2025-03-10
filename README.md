@@ -1,4 +1,4 @@
-# 🍃 Codepen Clone
+# 💻 Codepen Clone
 
 A codepen clone to study and for personal use
 
